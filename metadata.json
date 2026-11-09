@@ -1,0 +1,10 @@
+{
+  "name": "SuaraKu AI - Voice Clone & Text to Speech Studio",
+  "description": "Studio kloning suara AI dan Text-to-Speech interaktif. Rekam sampel vokal, analisis karakteristik akustik, latih profil suara, dan ubah teks menjadi suara personal.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
